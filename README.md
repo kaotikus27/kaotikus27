@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaotikus27&label=Profile%20views&color=0e75b6&style=flat" alt="kaotikus27" /> </p>
 
-- 🔭 I’m currently working on **My skills and seld**
+- 🔭 I’m currently working on **My skills and self**
 
 - 👯 I’m looking to collaborate on **Front end Base Project**
 
