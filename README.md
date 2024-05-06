@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, Java, Typescript, SQL**
 
-- 📫 How to reach me **kaotikus27@gmail.com**
+- 📫 How to reach me **e.halaman11@gmail.com**
 
 - ⚡ Fun fact **I often go out for walk**
 
